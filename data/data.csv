@@ -1,0 +1,302 @@
+input_text,output_text
+How much did my fleet idle last month?,Idling-Idling duration
+how many Kilometers the vehicle name 1943 drive yesterday ?,Asset Utilization-vehicle distance
+how many Kilometers the vehicle ID b412 drive last week ?,Asset Utilization-vehicle distance
+how many Kilometers the vehicle ID b412 drive from July 16th to July 22nd ?,Trips-distance
+What is the size of the MiniBulk Fleet?,Asset Monitoring and Groups-Company groups and sub groups
+"How many trucks do we have in the group ""MiniBulk"" ?",Asset Monitoring and Groups-Company groups and sub groups
+"How many trucks do we have in the group ""MiniBulk"" and how many stops is each of them doing per day in average ?","Asset Monitoring and Groups-Company groups and sub groups, Asset Utilization-Stop count"
+"how many liters of fuel the trucks in this group ""London"" consume every hour in average (Data of last 3 months)?",Fuel and Energy Consumption-fuel usage
+"What is the top 10 of the most used trucks in terms of distance and hours driven in the Group ""Ontario"" in 2022 vs 2023 ?",Asset Utilization-vehicle distance
+"What is the top 10 of the most used trucks in terms of distance and hours driven in the Group ""Ontario"" from '2023-01-01' to '2023-06-30' ?",Asset Utilization-vehicle distance
+what is the total distance in Kilometers of the group 'NON BULK' from '2023-07-01' to '2023-07-31' ?,Trips-group
+what is the total distance in Kilometers per month of the group 'NON-BULK' in 2022 and 2023?,Asset Utilization-vehicle distance
+"how many kilometers did the Groups 'MB-Ontario', 'MB-East' and 'MB-West' did per month in the last 3 months?",Asset Utilization-vehicle distance
+How much did my fleet idle last month?,Idling-Idling duration
+List my top 10 vehicles with lowest utilization over the past week? List from lowest to highest.,Asset Utilization-vehicle drive time
+Which vehicle has idled the most over the past 3 weeks?,Idling-Idling duration
+List my top 10 vehicles with lowest utilization over the past week? List from lowest to highest.,Asset Utilization-vehicle drive time
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+How does my fleet compare to other similar fleets when it comes to idling?,Idling-Idling Exceptions
+which equipment in my fleet consumed the most fuel last month,Fuel and Energy Consumption-fuel usage
+what is the average fuel consumption of my fleet?,Fuel and Energy Consumption-fuel usage
+which 5 vehicles in my fleet have had the most engine problems,Engine Faults-Fault counts
+which 5 equipment in my fleet spent the most time on standby with the engine running last month?,Asset Utilization-vehicle drive time
+which 5 equipment items in my fleet are most at risk of accidents due to the drivers' conduct,Safety-Predictive safety
+between 01/07/2023 and 01/08/2023,Trips-start date
+which 5 equipment items in my fleet are most at risk of accidents due to the drivers' conduct between 01/07/2023 and 01/08/2023,Safety-Predictive safety
+which 5 equipment items in my fleet are most at risk of accidents  between 01/07/2023 and 01/08/2023,Safety-Predictive safety
+voce responde em portugues,Device Health-Device communicating
+por quanto tempo o equipamento TT18 operou com temperatura do motor acima de 90ºc este mês,Engine Faults-Engine measurements
+"What is the total distance covered by our fleet this year, and how many lunar round-trips would that distance represent?",Asset Utilization-vehicle distance
+How much did my fleet idle last month?,Idling-Idling duration
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+which vehicle have the maximum speed in last week,Safety-max speed
+How much did my fleet idle last month?,Idling-Idling duration
+List the top 10 vehicles in my fleet ordered in decreasing driving distance. Also indicate the driving distances for these vehicles,Asset Utilization-vehicle distance
+which of my vehicles are likely to breakdown in the next month and why are they likely to breakdown ? Let me know the steps of your reasoning,Engine Faults-Fault Exceptions
+which trips in the past year had dangerous driving behaviour and why ?,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+what's the maximum speed Peter Situ has ever driven at ?,Safety-max speed
+"what's the maximum speed vehicle ""Peter Situ"" has ever driven at ? Run the query for me and let me know the maximum speed driven",Safety-max speed
+how many minutes did each vehicle in my fleet idle last month ?,Idling-Idling duration
+which vehicle drove the most in 2023 order in decreasing order. Also give idling minutes per miles of driving for the vehicles,"Asset Utilization-vehicle distance, Idling-Idling duration"
+How many vehicles in my fleet have sent data within the last 3 days and what are their VINs?,Device Health-Device communicating
+"How many vehicles in my fleet have sent data within the last 3 days, what is the time they last sent data, and what are their VINs?",Device Health-Last communication date
+what trucks haven't reported in 30 days,Device Health-Devices offline for X days
+what trucks are being driven today that don't have a driver logged into ELD,Asset Utilization-vehicle drive time
+what employees have exceeded their HOS,Asset Utilization-engine hours
+how much did trucks in Quebec city idle last month,Idling-Idling duration
+what vehicles have low cranking voltage,Device Health-Device communicating
+Business Intelligence tool,This query doesn't match any of the provided tags. Could you please provide more information?
+List my top 10 vehicles with lowest utilization over the past week? List from lowest to highest.,Asset Utilization-vehicle drive time
+"What is the total distance covered by our fleet this year, and how many lunar round-trips would that distance represent?",Asset Utilization-vehicle distance
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+Which vehicle in my fleet has the worst fuel economy?,Fuel and Energy Consumption-fuel economy
+which vehicle in my fleet has the best fuel economy?,Fuel and Energy Consumption-fuel economy
+who is my worst driver?,Safety-Safety score card with all custom set attributes
+Which vehicles in my fleet had the worst fuel consumption?,Fuel and Energy Consumption-fuel usage
+My vehicle PacLease Test #5 5012549 had by far the worst fuel economy in my fleet. How does this vehicle's operation compare to the rest of the fleet?,Fuel and Energy Consumption-fuel economy
+Which vehicles in my fleet operated the least?,Asset Utilization-vehicle days driven
+Which vehicles in my fleet have a GO Device that is unplugged?,Device Health-Device communicating
+Which vehicles in my fleet have a GO Device has been unplugged for multiple days?,Device Health-Devices offline for X days
+Which Vehicles in My Fleet have an IOX Easy device installed?,Device Health-Device metadata
+How many stops on average do each of my vehicles make on a weekly basis?,Asset Utilization-Stop count
+Which are my most utilized assets in my fleet?,Asset Utilization-vehicle drive time
+What is my highest idle vehicles,Idling-Idling Exceptions
+what vehicle had the most mileage last week?,Asset Utilization-vehicle distance
+what is the oldest vehicle in my fleet,Asset Monitoring and Groups-vehicle metadata
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+What were the 3 highest idle vehicle last month,Idling-Idling Exceptions
+what were the 5 highest speeds last month and by which vehicles?,Safety-max speed
+what were the 5 highest speeds last month and by which vehicles?,Safety-max speed
+what were the top 3 speeds last week,Safety-max speed
+what were the top 5 vehicle speeds in miles for the accent last week,Safety-max speed
+i want to know all of things of rtra0500,Device Health-Device metadata
+can you tell me calification of drive,Safety-Safety score card with all custom set attributes
+how many gas stations did my fleet visit last month,Fuel and Energy Consumption-fuel fill ups
+what is the average charge for our EV vehicles,Sustainability-battery charge status
+what year and make of vehicle has the most engine fault codes,Engine Faults-Fault counts
+what is the average age of all the vehicles in the fleet,Asset Monitoring and Groups-vehicle metadata
+what is the total amount of fuel purchased in the last 12 months in litres,Fuel and Energy Consumption-fuel fill ups
+what is the total amount of fuel purchased in 2022 in litres,Fuel and Energy Consumption-fuel fill ups
+what is the total amount of fuel filled up in 2022 in litres,Fuel and Energy Consumption-fuel fill ups
+which driver had the highest idling time last month,Idling-Idling duration
+"If I were to downsize 10 vehicles, which ones would you choose",Asset Utilization-vehicle drive time
+at what age do my vehicles start to see a decrease in fuel economy,Fuel and Energy Consumption-fuel economy
+at what age do my vehicles start to see a decrease in fuel economy in L/100 km,Fuel and Energy Consumption-fuel economy
+what is the average fuel economy by year in L/100 km,Fuel and Energy Consumption-fuel economy
+what is the average fuel economy by year in L/100 km for the last 10 years,Fuel and Energy Consumption-fuel economy
+what is the average fuel economy for all vehicles by year in L/100 km for the last 10 years,Fuel and Energy Consumption-fuel economy
+what is the average fuel economy for all vehicles by model year in L/100 km,Fuel and Energy Consumption-fuel economy
+what is the average fuel economy for all vehicles by model year in L/100 km and give the number of vehicles by model year,Fuel and Energy Consumption-fuel economy
+how many speeding > 15 incidents were there for gas last month,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+how many engine fault codes were recorded last month,Engine Faults-Fault counts
+which make of vehicle has the most engine faults in 2022,Engine Faults-Fault counts
+how much did my fleet idle in June 2023?,Idling-Idling duration
+which vehicle had the worst fuel consumption last month?,Fuel and Energy Consumption-fuel usage
+When have any of my vehicles been operating with dangerously low DEF levels?,Engine Faults-Fault Exceptions
+Are you aware of any fender benders that occurred this year?,Safety-possible collisions
+What vehicles are by far my riskiest vehicles in my fleet?,Safety-Safety score card with all custom set attributes
+What can you tell me?,Device Health-Device communicating
+how many speeding events did my fleet have last month?,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+how many vehicles are currently inactive?,Asset Monitoring and Groups-active vehicles
+Which vehicle has idled the most over the past 3 weeks?,Idling-Idling duration
+"Which vehicle has idled the most over the past 3 weeks, provide answers in minutes.",Idling-Idling duration
+What make of truck had the best MPG last month,Fuel and Energy Consumption-fuel economy
+Which vehicle has idled the most over the past 3 weeks?,Idling-Idling duration
+What is the best way to set up my groups?,Asset Monitoring and Groups-Company groups and sub groups
+Can you give some examples?,Device Health-Device metadata
+Can you provide this information in a table?,Device Health-Device metadata
+how do fuel economy and harsh events correlate in my fleet?,Fuel and Energy Consumption-fuel economy
+how can I improve my driver safety scorecard in my fleet?,Safety-Safety score card with all custom set attributes
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+Who was the best performing driver last month,Trips-driver
+Who was the best performing driver last month based on safety score,Safety-Safety score card with all custom set attributes
+what was the average idle time for the fleet last week,Idling-Idling duration
+which vehicles have an active DTC,Engine Faults-Fault counts
+What's my fleet's fuel consumption? Can you break it down by vehicle?,Fuel and Energy Consumption-fuel usage
+"Great, can you provide me with the carbon emissions per vehicle in the last 6 months as well? CO2 for Diesel is 10.19 kg/gallon, CO2 for Gasoline is 10.0 kg/gallon",Sustainability
+which vehicle idled the most last month?,Idling-Idling duration
+How many engine faults last month?,Engine Faults-Fault counts
+which vehicle tavelled the most distance and how much was that?,Asset Utilization-vehicle distance
+What is the average utilisation of my EVs battery capacity?,Sustainability-battery charge status
+What is the average utilisation of the Electric Vehicles in my fleet?,Asset Utilization-vehicle drive time
+what is the average starting state of charge when my electric vehicles start charging?,Sustainability-charging status
+which of my electric vehicles gets the best mpg,Fuel and Energy Consumption-fuel economy
+what is the most miles any of my vehicles have travelled in one day,Asset Utilization-vehicle distance
+Which is my most efficient battery electric vehicle?,Sustainability-EV suitability assessment (EVSA)
+which battery electric vehicle travelled the most distance this year,Sustainability-EV suitability assessment (EVSA)
+what's the total distance my fleet covered last month?,Asset Utilization-vehicle distance
+which day of the week do my vehicles travel the furthest?,Asset Utilization-vehicle distance
+what the most common fault code?,Engine Faults-Fault counts
+What's the average distance EP5 travelled each month?,Asset Utilization-vehicle distance
+what's the average distance EP1 travelled each month?,Asset Utilization-vehicle distance
+"on average, how many time did EP5 charge per month?",Sustainability-charging status
+"what's the average distance MHV86, LT857 and EH212 travelled each month?",Asset Utilization-vehicle distance
+"what's the average distance MHV86, LT857 and EH212 travelled each month?",Asset Utilization-vehicle distance
+"how far did MHV86, LT857 and EH212 travel last month?",Asset Utilization-vehicle distance
+which vehicle has travelled the most miles in any month?,Asset Utilization-vehicle distance
+what is the average fuel consumption for diesel vehicles?,Fuel and Energy Consumption-fuel usage
+"what's the average distance MHV86, LT857 and EH212 travelled each month",Asset Utilization-vehicle distance
+show me the total number of times each vehicle showed a general warning light,Engine Faults-Fault counts
+Which vehicle is the least reliable since August this year?,Device Health-Devices offline for X days
+Give me a breakdown of all of the faults reported by EH212,Engine Faults-Fault counts
+what are my EV's average energy usage per day,Fuel and Energy Consumption-fuel usage
+How many days has EH212 had the General vehicle warning light on?,Engine Faults-Fault counts
+What is the average data rate for accelerometer data for my internal fleet vehicles?,Device Health-Device metadata
+what is the total milage of all the vehicles last year?,Asset Utilization-vehicle distance
+Which vehicle has driven the furthest and how much energy have they used?,"Asset Utilization-vehicle distance
+Fuel and Energy Consumption-fuel usage"
+how many miles have all vehicles travelled in the last year,Asset Utilization-vehicle distance
+what is the total carbon saved on the fleet this month,Sustainability
+which users haved logged in the mostthis month,Device Health-Device communicating
+how many miles have all vehicles travelled in the last month,Asset Utilization-vehicle distance
+download a daily breakdown report of all vehicles achieving between 1 and 3 mi/kWh,Fuel and Energy Consumption-fuel economy
+"Howdy. We have many groups, e.g. Regina and Montreal. Can you take the top 5 vehicle groups with the most vehicles in them, and then provide a breakdown of  safety statistics (e.g. Speeding, Harsh Acceleration) vs their  fuel efficiency in L/100km?","Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc
+Fuel and Energy Consumption-fuel economy"
+idle fuel used last month,Idling-idling fuel used
+who is the best driver,Safety-Safety score card with all custom set attributes
+top driver on scorecard for the year,Safety-Safety score card with all custom set attributes
+top driver  last month scoring above 97%,Safety-Safety score card with all custom set attributes
+top 10 vehicles for speeding and  Harsh Braking,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+List the groups from highest idle to driving ratio to lowest.,Asset Utilization-vehicle drive time
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+Which vehicle or driver has idled the most over the past 3 weeks?,Idling-Idling duration
+List my top 10 vehicles with lowest utilization over the past week? List from lowest to highest.,Asset Utilization-vehicle drive time
+List my top 10 vehicles with lowest utilization over the past 6 months? List from lowest to highest.,Asset Utilization-vehicle drive time
+List my top 30 vehicles with lowest utilization over the past 6 months? List from lowest to highest.,Asset Utilization-vehicle drive time
+List my top 90 vehicles with lowest utilization over the past 24 week?,Asset Utilization-vehicle drive time
+what truck or driver has the best stats from the driver scorecard ?,Safety-Safety score card with all custom set attributes
+top driver  last month scoring above 97% from the driver scorecard?,Safety-Safety score card with all custom set attributes
+average fuel usage for a Mack Anthem,Fuel and Energy Consumption-fuel usage
+seat belt violations last month,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+total idle fuel used year to date,Idling-idling fuel used
+total mileage year to date,Asset Utilization-vehicle distance
+total mileage by groups,Asset Utilization-vehicle distance
+lowest idle % by truck by group,Asset Utilization-vehicle drive time
+list idle % by truck by group year to date.,Idling-Idling Exceptions
+speeding by truck,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+over speeding by truck last month,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+over speeding by 6km by truck last month,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+looking for the number of times a truck exceeded the speed limit by 6 km/h,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+how many tines the trucks exceeded the speed limit by 6 km/h,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+List the groups from highest idle to driving ratio to lowest.,Asset Utilization-vehicle drive time
+Which vehicle has idled the most over the past 3 weeks?,Idling-Idling duration
+unassigned vehicle idle year to date,Idling-Idling duration
+what is the average fuel usage per 100km,Fuel and Energy Consumption-fuel usage
+what vechile has the best milage,Fuel and Energy Consumption-fuel economy
+what vechile has the best milage per km,Fuel and Energy Consumption-fuel economy
+at a 1.78 per liter what is the cost of idle fuel used,Fuel and Energy Consumption-fuel usage
+at a 1.78 per liter actual idle fuel used in liters waht is the cost of idle fuel use year to date,Fuel and Energy Consumption-fuel usage
+how many vehicles have engine faults currently,Engine Faults-Fault counts
+what vehicles have engine faults currently,Engine Faults-Fault counts
+what trucks have no driver assigned and are in motion,Asset Monitoring and Groups-active vehicles
+what trucks in motion have no driver assigned,Asset Utilization-vehicle drive time
+average fuel usage mack anthem per 100km,Fuel and Energy Consumption-fuel usage
+what vehicles have speeding viloations over 5 km,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+are all camera working,Device Health-Device communicating
+what is the most common engine fault,Engine Faults-Fault counts
+vehcile with the highest mileage,Asset Utilization-vehicle distance
+what group is  vehicle 801 in,Asset Monitoring and Groups-Company groups and sub groups
+is 801 a active vehicle,Asset Monitoring and Groups-active vehicles
+top ten trucks with best fuel mileage,Fuel and Energy Consumption-fuel economy
+top 10 vehicles speeding,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+best month with the lowest idle,Idling-Idling duration
+what was the idle each month this year,Idling-Idling duration
+what was the idle each month this year by percentage,Idling-Idling duration
+what was the idle each month this year by percentage by group,Idling-Idling duration
+what vehicles have speeding last month,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+what vehicles did speeding last month 5km over limit,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+what trucks had harsh braking,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+idle fuel used last month in a excel sheet,Idling-idling fuel used
+what was madill's idle last month,Idling-Idling duration
+how many vehicles are currently driving?,Asset Utilization-vehicle drive time
+how many vehicles are driving in the netherlands,Asset Monitoring and Groups-active vehicles
+Which vehicles drove more than 50 kilometers last week?,Asset Utilization-vehicle distance
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+which vehicle has the worst fuel economy in liters?,Fuel and Energy Consumption-fuel economy
+What were my 10 worst drivers based on fuel usage?,Fuel and Energy Consumption-fuel usage
+How much fuel can I save if all my vehicles drive like my best performing vehicle?,Fuel and Energy Consumption-fuel economy
+"In your last answer, which vehicle did you use as best performing vehicle?",Asset Monitoring and Groups-vehicle metadata
+Which cars do you expect to break down in the coming two months?,Engine Faults-Fault Exceptions
+Do my cars perform different in changing seasons?,Device Health-Device metadata
+What was the busiest day in the past month?,Asset Utilization-vehicle days driven
+Create list of 10 datafeatures which are interesting,Asset Monitoring and Groups-vehicle metadata
+Which of these variables could be predicted best by other variables in the list. Think step by step,This question is too vague and doesn't relate to any specific category or subcategory. Could you please provide more details?
+Use queries to calculate the correlations between the 5 relationships mentioned,Device Health-Device metadata
+Can you write and run python code?,Device Health-Device communicating
+can you run sql queries,Device Health-Device communicating
+What is the shortest trip in the database,Trips-distance
+What query did you use?,This question is too vague and doesn't relate to any of the provided tags. Could you please provide more context or details?
+What is the longest trip in the database? Provide the full query used to find this data,Trips-distance
+Write a sql regression function to predict TotalFuel_Litres from GPS_Distance_Km,Fuel and Energy Consumption-fuel usage
+Simulate a table with the prediction for liters of fuel per 10 kms in a range of 0 to 500 kms,Fuel and Energy Consumption-fuel economy
+"To perform a linear regression in BigQuery SQL, you can use the `CREATE TEMPORARY FUNCTION` statement to define a custom function for calculating the regression coefficients. Then, you can use this function to predict the `TotalFuel_Litres` based on `GPS_Distance_Km`. Replace `100` with the desired `GPS_Distance_Km` value to predict the `TotalFuel_Litres`. Slope         Intercept 0.0493098643         0.2636888413",Fuel and Energy Consumption-fuel usage
+"Use queries to calculate the correlations between the 5 relationships mentioned: -Fuel consumption (TotalFuel_Litres, IdleFuel_Litres) and distance (GPS_Distance_Km, FuelEconomy_Distance_Km)",Fuel and Energy Consumption-fuel usage
+how many miles did forester travel last month?,Asset Utilization-vehicle distance
+how many times did forester go over the speed limit last month?,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+how much fuel was used while idling last month?,Idling-idling fuel used
+List my top 10 vehicles with lowest utilization over the past week? List from lowest to highest.,Asset Utilization-vehicle drive time
+break down idling by group or last month,Idling-Idling Exceptions
+return VIN for truck 6639,Device Health-Device metadata
+return VIN that has 6639 in its name,Device Health-Device metadata
+"What is VIN for vehicle called ""101-6097 - Route 10""",Device Health-Device metadata
+What is the vehicle name for 1GBKP32R3V3317153,Device Health-Device metadata
+How many miles by group,Asset Utilization-vehicle distance
+which vehicle is the worst driver and how can I improve their score,Safety-Safety score card with all custom set attributes
+Which vehicle has the best fuel consumption in the fleet,Fuel and Energy Consumption-fuel economy
+How many litres of fuel were used idling in the last 3 months,Idling-idling fuel used
+what was the highest speed that a vehicle drove at during th elast 3 months,Safety-max speed
+which vehicle has the highest speeding events,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+Cual es el indice de conductor estrella de region norte al dia de hoy,Safety-Safety score card with all custom set attributes
+Cuantas unidades con detenciones de mas de 3 horas se han registrado hoy en nuevo leon,Asset Utilization-Stop count
+Cuantos conductores de alto riesgo hay hoy en nuevo leon,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+What measurements do I have available for each type of vehicle in my fleet?,Asset Monitoring and Groups-vehicle metadata
+What is the average G-force for Hino vehicles in this fleet?,Engine Faults-Engine measurements
+How much distance did vehicles under @FLOTA PRIMARIA group travelled last week?,Asset Utilization-vehicle distance
+¿Podrías indicarme cuáles son los 10 mejores conductores basados en su seguridad?,Safety-Safety score card with all custom set attributes
+¿Podrías indicarme cuáles son los 10 mejores conductores basados en giros bruscos?,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+Can you please give me a top 20 of worst drivers based on idling?,Idling-Idling Exceptions
+"¿Puedes compartirme el top 10 de los conductores con mayor distancia recorrida? Por favor, incluye además el tiempo de conducción y ralentí",Asset Utilization-vehicle distance
+Could you please confirm the top 10 of drivers based on total distance in kilometers? please include driving and idling time,Asset Utilization-vehicle distance
+¿Puedes compartirme el top 10 de los conductores con mayor distancia recorrida?,Trips-distance
+Could you please confirm the top 10 of drivers based on total distance in kilometers?,Asset Utilization-vehicle distance
+How many kilometers did the fleet travel last week?,Asset Utilization-vehicle distance
+breakdown in all groups for idling last month,Idling-Idling duration
+miles driven on vehicle 15885,Asset Utilization-vehicle distance
+miles driven by sergio duran group,Trips-group
+show all groups,Asset Monitoring and Groups-Company groups and sub groups
+miles driven by all groups,Asset Utilization-vehicle distance
+devices not communicating today?,Device Health-Device communicating
+devices not active over the past month?,Device Health-Devices offline for X days
+exceptions this month,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+best driver in my fleet,Safety-Safety score card with all custom set attributes
+utilazation this montn,Asset Utilization-vehicle drive time
+best driver in my fleet,Safety-Safety score card with all custom set attributes
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+Which vehicle has idled the most over the past 3 weeks?,Idling-Idling duration
+How many device are offline since 3 days,Device Health-Devices offline for X days
+show me devices that are offline but have had a connection before,Device Health-Devices offline for X days
+Which car manufacturers in my fleet have the best and worst fuel economy?,Fuel and Energy Consumption-fuel economy
+top 10 vehicles with highest fuel consumption per hour,Fuel and Energy Consumption-fuel usage
+average time from start of day to end of day for vehicles in Region syd,Trips-driving duration
+breakdown the total mileage by group for last month,Asset Utilization-vehicle distance
+breakdown the total mileage by group last month exclude group names with numbers and district,Asset Utilization-vehicle distance
+tell me all groups that has number in the group name,Asset Monitoring and Groups-Company groups and sub groups
+how is fuel economy distance measured,Fuel and Energy Consumption-fuel economy
+Can I get the raw GPS coordinates for all the trips my fleet did this month? Is it possible to format them to GeoJson?,Trips-Location
+Which vehicle drove the most miles in 2022,Asset Utilization-vehicle distance
+Who had the highest score on the Driver Safety Scorecard for the year 2022?,Safety-Safety score card with all custom set attributes
+How many vehicles crossed state lines last week?,Trips-Location
+Can you pull an ifta report for last month?,Device Health-Last communication date
+pull device id for all active assets,Asset Monitoring and Groups-active vehicles
+What were the total number of stops made in 2023 and the average stop time?,Asset Utilization-Stop count
+Show me the stops by month and vehicle,Asset Utilization-Stop count
+which vehicle has idled the most so far this year,Idling-Idling duration
+exluding the yabby edge,Device Health-Device metadata
+which vehicle has used the most gas in the last 3 months,Fuel and Energy Consumption-fuel usage
+which of my vehicles is ready to be replaced with an electric vehicle,Sustainability-EV suitability assessment (EVSA)
+which of my vehicles has the most speeding violations this year,"Safety-Safety exceptions including speeding, harsh breaking, acceleration seatbelt etc"
+how much of that idle is in the state of illinois?,Idling-Idling location/exception
+how many vehicles are in our system,Asset Monitoring and Groups-active vehicles
+which vehicle is most fuel efficient ?,Fuel and Energy Consumption-fuel economy
